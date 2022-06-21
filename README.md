@@ -1,7 +1,7 @@
 The fourth project from the Data Scientist with Python career track from DataCamp.
 
 # **A Visual History of Nobel Prize Winners**
-![Nobel Prize logo](https://upload.wikimedia.org/wikipedia/commons/2/23/Nobel_logo.svg)
+![Nobel Prize logo](https://upload.wikimedia.org/wikipedia/en/e/ed/Nobel_Prize.png?20131011153104)
 
 This repository includes the fourth project under Data Scientist with Python career track from [DataCamp](https://www.datacamp.com/tracks/data-scientist-with-python), which entails data manipulation and visualization skills to explore patterns and trends over 100 years worth of Nobel Prize winners.
 
