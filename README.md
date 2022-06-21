@@ -1,5 +1,3 @@
-The fourth project from the Data Scientist with Python career track from DataCamp.
-
 # **A Visual History of Nobel Prize Winners**
 ![Nobel Prize logo](https://upload.wikimedia.org/wikipedia/en/e/ed/Nobel_Prize.png?20131011153104)
 
