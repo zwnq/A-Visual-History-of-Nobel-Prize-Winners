@@ -13,7 +13,7 @@ This repository includes the fourth project under Data Scientist with Python car
 > The [dataset](https://www.kaggle.com/nobelfoundation/nobel-laureates) used in this project is from The Nobel Foundation on Kaggle.
 
 ## :keyboard: Guided Project
-- [A Visual History of Nobel Prize Winners]()
+- [A Visual History of Nobel Prize Winners](https://github.com/zwnq/A-Visual-History-of-Nobel-Prize-Winners/blob/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners/notebook.ipynb)
 
 ## :white_check_mark: Project Tasks
 > 1. The most Nobel of Prizes
